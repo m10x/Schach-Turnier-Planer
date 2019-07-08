@@ -1,0 +1,15 @@
+C:\Users\maximilian.hildebran\source\repos\m10x\Schach-Turnier-Planer\Schach-Turnier-Planer\bin\Debug\Schach-Turnier-Planer.exe.config
+C:\Users\maximilian.hildebran\source\repos\m10x\Schach-Turnier-Planer\Schach-Turnier-Planer\bin\Debug\Schach-Turnier-Planer.exe
+C:\Users\maximilian.hildebran\source\repos\m10x\Schach-Turnier-Planer\Schach-Turnier-Planer\bin\Debug\Schach-Turnier-Planer.pdb
+C:\Users\maximilian.hildebran\source\repos\m10x\Schach-Turnier-Planer\Schach-Turnier-Planer\obj\Debug\Schach-Turnier-Planer.csprojAssemblyReference.cache
+C:\Users\maximilian.hildebran\source\repos\m10x\Schach-Turnier-Planer\Schach-Turnier-Planer\obj\Debug\MainWindow.g.cs
+C:\Users\maximilian.hildebran\source\repos\m10x\Schach-Turnier-Planer\Schach-Turnier-Planer\obj\Debug\App.g.cs
+C:\Users\maximilian.hildebran\source\repos\m10x\Schach-Turnier-Planer\Schach-Turnier-Planer\obj\Debug\Schach-Turnier-Planer_MarkupCompile.cache
+C:\Users\maximilian.hildebran\source\repos\m10x\Schach-Turnier-Planer\Schach-Turnier-Planer\obj\Debug\Schach-Turnier-Planer_MarkupCompile.lref
+C:\Users\maximilian.hildebran\source\repos\m10x\Schach-Turnier-Planer\Schach-Turnier-Planer\obj\Debug\MainWindow.baml
+C:\Users\maximilian.hildebran\source\repos\m10x\Schach-Turnier-Planer\Schach-Turnier-Planer\obj\Debug\Schach-Turnier-Planer.g.resources
+C:\Users\maximilian.hildebran\source\repos\m10x\Schach-Turnier-Planer\Schach-Turnier-Planer\obj\Debug\Schach_Turnier_Planer.Properties.Resources.resources
+C:\Users\maximilian.hildebran\source\repos\m10x\Schach-Turnier-Planer\Schach-Turnier-Planer\obj\Debug\Schach-Turnier-Planer.csproj.GenerateResource.cache
+C:\Users\maximilian.hildebran\source\repos\m10x\Schach-Turnier-Planer\Schach-Turnier-Planer\obj\Debug\Schach-Turnier-Planer.csproj.CoreCompileInputs.cache
+C:\Users\maximilian.hildebran\source\repos\m10x\Schach-Turnier-Planer\Schach-Turnier-Planer\obj\Debug\Schach-Turnier-Planer.exe
+C:\Users\maximilian.hildebran\source\repos\m10x\Schach-Turnier-Planer\Schach-Turnier-Planer\obj\Debug\Schach-Turnier-Planer.pdb
