@@ -29,7 +29,7 @@ namespace Schach_Turnier_Planer
 
         private void TeamAddButton_Click(object sender, RoutedEventArgs e)
         {
-            Teams = new Team(textTeamName.Text, textTeamStadt.Text, textTeamPartner.Text, System.Convert.ToInt32(textTeamNummer.Text));
+            Teams = new Team(textTeamName.Text, textTeamPartner.Text, System.Convert.ToInt32(textTeamNummer.Text));
             lbTeams.Items.Add(Teams);
         }
 
@@ -42,7 +42,6 @@ namespace Schach_Turnier_Planer
         {
             Teams = lbTeams.SelectedItem as Team;
             textTeamName.Text = Teams.Name;
-            textTeamStadt.Text = Teams.Stadt;
             textTeamPartner.Text = Teams.Partner;
             textTeamNummer.Text = Teams.Nummer.ToString();
         }
